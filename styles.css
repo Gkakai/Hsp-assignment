@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+.header{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+.log1{
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    border-radius: 50%;
+}
